@@ -9,7 +9,6 @@ cap.set(4, 550)
 
 totalMoney = 0
 
-totalMoney = 0
 
 myColorFinder = ColorFinder(True)
 # Custom Orange Color
